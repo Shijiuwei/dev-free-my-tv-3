@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dev-free-my-tv-3 - 官方技术规范与分布式拓扑订阅</title>
+  <subtitle>A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo. (Extended cloud-native edition &amp; architecture specifications)</subtitle>
+  <link href="https://shijiuwei.github.io/dev-free-my-tv-3/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/dev-free-my-tv-3/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/dev-free-my-tv-3/</id>
+  <updated>2026-11-08T16:20:23.401432500+00:00</updated>
+  <author>
+    <name>dev-free-my-tv-3</name>
+  </author>
+  <entry>
+    <title>dev-free-my-tv-3 分布式架构设计与拓扑调度规约</title>
+    <link href="https://shijiuwei.github.io/dev-free-my-tv-3/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/dev-free-my-tv-3/docs/architecture.html</id>
+    <updated>2026-11-08T16:20:23.401432500+00:00</updated>
+    <summary type="html">&lt;p&gt;本文档为 dev-free-my-tv-3 项目的核心技术白皮书，详细定义了高可用多活集群同步协议、非阻塞异步事件循环调度机制与跨节点数据容灾方案。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;The ready APK 核心系统架构与设计规约 (RFC-997)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>dev-free-my-tv-3 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/dev-free-my-tv-3/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/dev-free-my-tv-3/docs/specifications.html</id>
+    <updated>2026-11-08T16:20:23.401432500+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 dev-free-my-tv-3 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com"&gt;基于 dev-free-my-tv-3 的自动化部署与生产环境配置实践&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>dev-free-my-tv-3 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/dev-free-my-tv-3/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/dev-free-my-tv-3/docs/topology-guide.html</id>
+    <updated>2026-11-08T16:20:23.401432500+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成节点部署与网络拓扑索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com"&gt;冷热数据分层存储：dev-free-my-tv-3 home 权威归档源&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
